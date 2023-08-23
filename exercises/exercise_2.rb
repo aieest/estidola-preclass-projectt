@@ -10,3 +10,6 @@ def adultOrNot (age)
   end
 
 end
+
+p adultOrNot(19)
+p adultOrNot(10)
