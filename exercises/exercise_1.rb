@@ -2,6 +2,7 @@
 #  BMI = kg/m2
 
 def checkBMI(height, weight)
+
   return weight / height**2
 
 end
